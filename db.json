@@ -16,12 +16,14 @@
       "id": 1
     },
     {
-      "catName": "Gunnar",
-      "catBreed": "American Shorthair",
+      "catName": "BeanBag",
+      "catBreed": "Tuxedo Shorthair",
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    
+  ],
   "robots": [{
     "robotName": "C8-09S100K",
     "robotType": "Human Assistant",
